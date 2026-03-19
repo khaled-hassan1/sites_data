@@ -571,6 +571,13 @@
     },
     {
       "id": "ar",
+      "url": "https://stardima-52.cartoon.com.im",
+      "name": "Stardima",
+      "priority": 2,
+      "img": "images/arabic/ar_site_8.png"
+    },
+    {
+      "id": "ar",
       "url": "https://www.animeyoyo.com/",
       "name": "Animeyoyo",
       "priority": 3,
