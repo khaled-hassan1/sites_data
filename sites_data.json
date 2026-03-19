@@ -1,0 +1,790 @@
+{
+  "english_sites": [
+    {
+      "id": "en",
+      "url": "https://animekai.to/home",
+      "name": "AnimeKai",
+      "priority": 1,
+      "img": "images/anime_site_1.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animepahe.si",
+      "name": "animepahe",
+      "priority": 2,
+      "img": "images/anime_site_2.png"
+    },
+    {
+      "id": "en",
+      "url": "https://everythingmoe.com/",
+      "name": "Everythingmoe",
+      "priority": 3,
+      "img": "images/anime_site_3.png"
+    },
+    {
+      "id": "en",
+      "url": "https://aniwatchtv.to/home",
+      "name": "HiAnime",
+      "priority": 4,
+      "img": "images/anime_site_4.png"
+    },
+    {
+      "id": "en",
+      "url": "https://allmanga.to/anime",
+      "name": "AllManga Anime",
+      "priority": 5,
+      "img": "images/anime_site_5.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animeyy.com/",
+      "name": "AnimeYY",
+      "priority": 6,
+      "img": "images/anime_site_6.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anizone.to/",
+      "name": "AniZone",
+      "priority": 7,
+      "img": "images/anime_site_7.png"
+    },
+    {
+      "id": "en",
+      "url": "https://kuudere.ru/home",
+      "name": "Kuudere",
+      "priority": 8,
+      "img": "images/anime_site_8.png"
+    },
+    {
+      "id": "en",
+      "url": "https://kaa.lt/",
+      "name": "KickAssAnime",
+      "priority": 9,
+      "img": "images/anime_site_9.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anime.nexus/",
+      "name": "Anime Nexus",
+      "priority": 10,
+      "img": "images/anime_site_10.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anikototv.to/home",
+      "name": "Anikoto",
+      "priority": 11,
+      "img": "images/anime_site_11.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animetsu.live/",
+      "name": "Animetsu",
+      "priority": 12,
+      "img": "images/anime_site_12.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.miruro.to/",
+      "name": "Miruro",
+      "priority": 13,
+      "img": "images/anime_site_13.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.crunchyroll.com",
+      "name": "Crunchyroll",
+      "priority": 14,
+      "img": "images/anime_site_14.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anime.uniquestream.net/",
+      "name": "AnimeStream",
+      "priority": 15,
+      "img": "images/anime_site_15.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.bilibili.tv/en/anime",
+      "name": "Bilibili",
+      "priority": 16,
+      "img": "images/anime_site_16.png"
+    },
+    {
+      "id": "en",
+      "url": "https://youtube.com/",
+      "name": "YouTube",
+      "priority": 17,
+      "img": "images/anime_site_17.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anihq.org/home",
+      "name": "AniHQ",
+      "priority": 18,
+      "img": "images/anime_site_18.png"
+    },
+    {
+      "id": "en",
+      "url": "https://senshi.live/",
+      "name": "Senshi",
+      "priority": 19,
+      "img": "images/anime_site_19.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.animeonsen.xyz/",
+      "name": "AnimeOnsen",
+      "priority": 20,
+      "img": "images/anime_site_20.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anidap.se/home",
+      "name": "Anidap",
+      "priority": 21,
+      "img": "images/anime_site_21.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.animerealms.org/",
+      "name": "Anime Realms",
+      "priority": 22,
+      "img": "images/anime_site_22.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animex.one/home",
+      "name": "AnimeX",
+      "priority": 23,
+      "img": "images/anime_site_23.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anikuro.ru/",
+      "name": "Anikuro",
+      "priority": 24,
+      "img": "images/anime_site_24.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anisnatch.top/home",
+      "name": "AniSnatch",
+      "priority": 25,
+      "img": "images/anime_site_25.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anibd.app/",
+      "name": "Anibd.app",
+      "priority": 26,
+      "img": "images/anime_site_26.png"
+    },
+    {
+      "id": "en",
+      "url": "https://sudatchi.com/",
+      "name": "Sudatchi",
+      "priority": 27,
+      "img": "images/anime_site_27.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.animegg.org/",
+      "name": "ANIMEGG",
+      "priority": 28,
+      "img": "images/anime_site_28.png"
+    },
+    {
+      "id": "en",
+      "url": "https://123animes.ru/home",
+      "name": "123anime",
+      "priority": 29,
+      "img": "images/anime_site_29.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.animeparadise.moe/",
+      "name": "AnimeParadise",
+      "priority": 30,
+      "img": "images/anime_site_30.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animeheaven.me/",
+      "name": "AnimeHeaven",
+      "priority": 31,
+      "img": "images/anime_site_31.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.hidive.com/",
+      "name": "HIDIVE",
+      "priority": 32,
+      "img": "images/anime_site_32.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anitaku.to/",
+      "name": "Anitaku.to",
+      "priority": 33,
+      "img": "images/anime_site_33.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animehub.ac/",
+      "name": "AnimeHub",
+      "priority": 34,
+      "img": "images/anime_site_34.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anify.to/",
+      "name": "Anify",
+      "priority": 35,
+      "img": "images/anime_site_35.png"
+    },
+    {
+      "id": "en",
+      "url": "https://aniworld.to/",
+      "name": "AniWorld",
+      "priority": 36,
+      "img": "images/anime_site_36.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.anime-loads.org/",
+      "name": "Anime-Loads",
+      "priority": 37,
+      "img": "images/anime_site_37.png"
+    },
+    {
+      "id": "en",
+      "url": "https://lunaranime.ru/",
+      "name": "Lunar Animes",
+      "priority": 38,
+      "img": "images/anime_site_38.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.animotvslash.org/",
+      "name": "Animotvslash",
+      "priority": 39,
+      "img": "images/anime_site_39.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.wcostream.tv/",
+      "name": "WCO",
+      "priority": 40,
+      "img": "images/anime_site_40.png"
+    },
+    {
+      "id": "en",
+      "url": "https://kisskh.co/explore?type=3&sub=1&country=3",
+      "name": "Kisskh",
+      "priority": 41,
+      "img": "images/anime_site_41.png"
+    },
+    {
+      "id": "en",
+      "url": "https://beta.otaku-streamers.com/",
+      "name": "Otaku-Streamers",
+      "priority": 42,
+      "img": "images/anime_site_42.png"
+    },
+    {
+      "id": "en",
+      "url": "https://kawaiifu.com/",
+      "name": "Kawaiifu",
+      "priority": 43,
+      "img": "images/anime_site_43.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animenosub.to/",
+      "name": "AnimeNoSub",
+      "priority": 44,
+      "img": "images/anime_site_44.png"
+    },
+    {
+      "id": "en",
+      "url": "https://kimoitv.com/list/anime.html",
+      "name": "KimoiTV",
+      "priority": 45,
+      "img": "images/anime_site_45.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.justanime.to/",
+      "name": "JustAnime",
+      "priority": 46,
+      "img": "images/anime_site_46.png"
+    },
+    {
+      "id": "en",
+      "url": "https://fanime.tv/",
+      "name": "Fanime",
+      "priority": 47,
+      "img": "images/anime_site_47.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animelok.xyz/",
+      "name": "Animelok",
+      "priority": 48,
+      "img": "images/anime_site_48.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animeyubi.com/",
+      "name": "Animeyubi",
+      "priority": 49,
+      "img": "images/anime_site_49.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anikage.cc/home",
+      "name": "Anikage",
+      "priority": 50,
+      "img": "images/anime_site_50.png"
+    },
+    {
+      "id": "en",
+      "url": "https://rivestream.org/anime",
+      "name": "Rive Anime",
+      "priority": 51,
+      "img": "images/anime_site_51.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.ramenflix.com/home",
+      "name": "RamenFlix",
+      "priority": 52,
+      "img": "images/anime_site_52.png"
+    },
+    {
+      "id": "en",
+      "url": "https://1anime.app",
+      "name": "1Anime",
+      "priority": 53,
+      "img": "images/anime_site_53.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.animeya.cc/home",
+      "name": "Animeya",
+      "priority": 54,
+      "img": "images/anime_site_54.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animelon.com/",
+      "name": "Animelon",
+      "priority": 55,
+      "img": "images/anime_site_55.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animestar.cc/",
+      "name": "AnimeStar",
+      "priority": 56,
+      "img": "images/anime_site_56.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animegers.com/",
+      "name": "Animegers",
+      "priority": 57,
+      "img": "images/anime_site_57.png"
+    },
+    {
+      "id": "en",
+      "url": "https://aniwave.com.se/",
+      "name": "aniwavecomse",
+      "priority": 58,
+      "img": "images/anime_site_58.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.netflix.com/browse/genre/7424",
+      "name": "Netflix",
+      "priority": 59,
+      "img": "images/anime_site_59.png"
+    },
+    {
+      "id": "en",
+      "url": "https://oceanveil.net/",
+      "name": "OceanVeil",
+      "priority": 60,
+      "img": "images/anime_site_60.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anitaro.top/home",
+      "name": "Anitaro",
+      "priority": 61,
+      "img": "images/anime_site_61.png"
+    },
+    {
+      "id": "en",
+      "url": "https://aniversehd.com/",
+      "name": "AniverseHD",
+      "priority": 62,
+      "img": "images/anime_site_62.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.hulu.com/hub/anime",
+      "name": "Hulu",
+      "priority": 63,
+      "img": "images/anime_site_63.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.voxani.live/",
+      "name": "VoxAni",
+      "priority": 64,
+      "img": "images/anime_site_64.png"
+    },
+    {
+      "id": "en",
+      "url": "https://zenime.site/",
+      "name": "Zenime",
+      "priority": 65,
+      "img": "images/anime_site_65.png"
+    },
+    {
+      "id": "en",
+      "url": "https://9anime.org.lv/",
+      "name": "9animeorglv",
+      "priority": 66,
+      "img": "images/anime_site_66.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animovitch.com/home",
+      "name": "Animovitch",
+      "priority": 67,
+      "img": "images/anime_site_67.png"
+    },
+    {
+      "id": "en",
+      "url": "https://www.enma.lol/",
+      "name": "Enma",
+      "priority": 68,
+      "img": "images/anime_site_68.png"
+    },
+    {
+      "id": "en",
+      "url": "https://gogoanime.by/",
+      "name": "gogoanime.by",
+      "priority": 69,
+      "img": "images/anime_site_69.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anime-dunya.com/",
+      "name": "Anime-Dunya",
+      "priority": 70,
+      "img": "images/anime_site_70.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animeepisodeseries.com/",
+      "name": "AnimeEpisodeSeries",
+      "priority": 71,
+      "img": "images/anime_site_71.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animixplay.fun/",
+      "name": "Kayoanimetv",
+      "priority": 72,
+      "img": "images/anime_site_72.png"
+    },
+    {
+      "id": "en",
+      "url": "https://watchanimeworld.net/",
+      "name": "AnimeWorld",
+      "priority": 73,
+      "img": "images/anime_site_73.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animedekho.app/home/",
+      "name": "AnimeDekho",
+      "priority": 74,
+      "img": "images/anime_site_74.png"
+    },
+    {
+      "id": "en",
+      "url": "https://animeland.tv/",
+      "name": "Animeland.tv",
+      "priority": 75,
+      "img": "images/anime_site_75.png"
+    },
+    {
+      "id": "en",
+      "url": "https://hianime.lc/",
+      "name": "HiAnime LC",
+      "priority": 76,
+      "img": "images/anime_site_76.png"
+    },
+    {
+      "id": "en",
+      "url": "https://hianime.city/",
+      "name": "HiAnime City",
+      "priority": 77,
+      "img": "images/anime_site_77.png"
+    },
+    {
+      "id": "en",
+      "url": "https://9animetv.to/home",
+      "name": "9Anime TV",
+      "priority": 78,
+      "img": "images/anime_site_78.png"
+    },
+    {
+      "id": "en",
+      "url": "https://anitaku.io/",
+      "name": "Anitaku IO",
+      "priority": 79,
+      "img": "images/anime_site_79.png"
+    }
+  ],
+  "arabic_sites": [
+    {
+      "id": "ar",
+      "url": "https://anime3rb.com/",
+      "name": "Anime3Rb",
+      "priority": 1,
+      "img": "images/arabic/ar_site_1.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://cimanow.cc/category/%D8%A7%D8%B7%D9%81%D8%A7%D9%84/",
+      "name": "Cimanow",
+      "priority": 2,
+      "img": "images/arabic/ar_site_2.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.animeyoyo.com/",
+      "name": "Animeyoyo",
+      "priority": 3,
+      "img": "images/arabic/ar_site_3.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.arabic-toons.com/",
+      "name": "Arabic-Toons",
+      "priority": 4,
+      "img": "images/arabic/ar_site_4.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://animesit.com/",
+      "name": "Animesit",
+      "priority": 5,
+      "img": "images/arabic/ar_site_5.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://spacepowerfan.com/",
+      "name": "Spacepowerfan",
+      "priority": 6,
+      "img": "images/arabic/ar_site_6.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.ooanime.com/",
+      "name": "Ooanime",
+      "priority": 7,
+      "img": "images/arabic/ar_site_7.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://stardima-q8.stardiima.top/watch/movies/#gsc.tab=0",
+      "name": "Stardima-Q8",
+      "priority": 8,
+      "img": "images/arabic/ar_site_8.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.dima-toon.com/",
+      "name": "Dima-Toon",
+      "priority": 9,
+      "img": "images/arabic/ar_site_9.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://runtv.cc/",
+      "name": "Runtv",
+      "priority": 10,
+      "img": "images/arabic/ar_site_10.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://ar.animezid.lol/",
+      "name": "Ar",
+      "priority": 11,
+      "img": "images/arabic/ar_site_11.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://4b.7m2x9qk.shop/",
+      "name": "4B",
+      "priority": 12,
+      "img": "images/arabic/ar_site_12.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.qfilm.tv/category.php?cat=anime-movies",
+      "name": "Qfilm",
+      "priority": 13,
+      "img": "images/arabic/ar_site_13.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.arabic-toons.com/movies.php",
+      "name": "Arabic-Toons",
+      "priority": 14,
+      "img": "images/arabic/ar_site_14.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.cartoonsta.net/",
+      "name": "Cartoonsta",
+      "priority": 15,
+      "img": "images/arabic/ar_site_15.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://animeslayerweb.com/anime-slayer-home/",
+      "name": "Animeslayerweb",
+      "priority": 16,
+      "img": "images/arabic/ar_site_16.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://witanime.life/",
+      "name": "Witanime",
+      "priority": 17,
+      "img": "images/arabic/ar_site_17.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://wb.animeluxe.org/",
+      "name": "Wb",
+      "priority": 18,
+      "img": "images/arabic/ar_site_18.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://aniime4up.com/",
+      "name": "Aniime4Up",
+      "priority": 19,
+      "img": "images/arabic/ar_site_19.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.cartoonbook.net/",
+      "name": "Cartoonbook",
+      "priority": 20,
+      "img": "images/arabic/ar_site_20.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://vid.mycima.cc/1-topvideos.php?c=the-anime-movies-cimawbas",
+      "name": "Vid",
+      "priority": 21,
+      "img": "images/arabic/ar_site_21.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://www.wehohanime.com/",
+      "name": "Wehohanime",
+      "priority": 22,
+      "img": "images/arabic/ar_site_22.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://3f39363is6.animepec.online/",
+      "name": "3F39363Is6",
+      "priority": 23,
+      "img": "images/arabic/ar_site_23.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://asd.pics/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%86%d9%8a%d9%85%d9%8a%d8%b4%d9%86/",
+      "name": "Asd",
+      "priority": 24,
+      "img": "images/arabic/ar_site_24.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://asd.pics/category/cartoon-series/",
+      "name": "Asd",
+      "priority": 25,
+      "img": "images/arabic/ar_site_25.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://r.cimalight.co/category.php?cat=anime-movies1",
+      "name": "R",
+      "priority": 26,
+      "img": "images/arabic/ar_site_26.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "name": "Topcinema",
+      "priority": 27,
+      "img": "images/arabic/ar_site_27.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://vid.mycima.cc/search.php?keywords=%D8%A7%D9%86%D9%85%D9%8A&video-id=",
+      "name": "Vid",
+      "priority": 28,
+      "img": "images/arabic/ar_site_28.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://cimafree.rest/category.php?cat=anime-series",
+      "name": "Cimafree",
+      "priority": 29,
+      "img": "images/arabic/ar_site_29.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://cfu.cam/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "name": "Cfu",
+      "priority": 30,
+      "img": "images/arabic/ar_site_30.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://mycimma.mom/category.php?cat=cartoon",
+      "name": "Mycimma",
+      "priority": 31,
+      "img": "images/arabic/ar_site_31.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://aflaam.com/search?category=30",
+      "name": "Aflaam",
+      "priority": 32,
+      "img": "images/arabic/ar_site_32.png"
+    },
+    {
+      "id": "ar",
+      "url": "https://shahheid4u.net/category/افلام-عربي",
+      "name": "Shahheid4U",
+      "priority": 33,
+      "img": "images/arabic/ar_site_33.png"
+    }
+  ]
+}
