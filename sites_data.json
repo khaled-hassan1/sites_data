@@ -1,803 +1,790 @@
-{"arabic_sites": [
+{
+  "arabic_sites": [
     {
-      "id": "ar",
+      "id": "ar-1",
       "url": "https://anime3rb.com/",
       "name": "Anime3Rb",
       "priority": 1,
-      "img": "images/arabic/ar_site_1.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_1.png"
     },
     {
-      "id": "ar",
+      "id": "ar-2",
       "url": "https://cimanow.cc/category/%D8%A7%D8%B7%D9%81%D8%A7%D9%84/",
       "name": "Cimanow",
       "priority": 2,
-      "img": "images/arabic/ar_site_2.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_2.png"
     },
     {
-      "id": "ar",
-      "url": "https://stardima-52.cartoon.com.im",
-      "name": "Stardima",
-      "priority": 2,
-      "img": "images/arabic/ar_site_8.png"
-    },
-    {
-      "id": "ar",
+      "id": "ar-3",
       "url": "https://www.animeyoyo.com/",
       "name": "Animeyoyo",
       "priority": 3,
-      "img": "images/arabic/ar_site_3.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_3.png"
     },
     {
-      "id": "ar",
+      "id": "ar-4",
       "url": "https://www.arabic-toons.com/",
       "name": "Arabic-Toons",
       "priority": 4,
-      "img": "images/arabic/ar_site_4.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_4.png"
     },
     {
-      "id": "ar",
+      "id": "ar-5",
       "url": "https://animesit.com/",
       "name": "Animesit",
       "priority": 5,
-      "img": "images/arabic/ar_site_5.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_5.png"
     },
     {
-      "id": "ar",
+      "id": "ar-6",
       "url": "https://spacepowerfan.com/",
       "name": "Spacepowerfan",
       "priority": 6,
-      "img": "images/arabic/ar_site_6.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_6.png"
     },
     {
-      "id": "ar",
+      "id": "ar-7",
       "url": "https://www.ooanime.com/",
       "name": "Ooanime",
       "priority": 7,
-      "img": "images/arabic/ar_site_7.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_7.png"
     },
     {
-      "id": "ar",
+      "id": "ar-8",
       "url": "https://stardima-q8.stardiima.top/watch/movies/#gsc.tab=0",
       "name": "Stardima-Q8",
       "priority": 8,
-      "img": "images/arabic/ar_site_8.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_8.png"
     },
     {
-      "id": "ar",
+      "id": "ar-9",
       "url": "https://www.dima-toon.com/",
       "name": "Dima-Toon",
       "priority": 9,
-      "img": "images/arabic/ar_site_9.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_9.png"
     },
     {
-      "id": "ar",
+      "id": "ar-10",
       "url": "https://runtv.cc/",
       "name": "Runtv",
       "priority": 10,
-      "img": "images/arabic/ar_site_10.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_10.png"
     },
     {
-      "id": "ar",
+      "id": "ar-11",
       "url": "https://www.cartoonz.live",
       "name": "Cartoonz",
-      "priority": 10,
-      "img": "images/arabic/ar_site_10.png"
-    },
-    {
-      "id": "ar",
-      "url": "https://ar.animezid.lol/",
-      "name": "Ar",
       "priority": 11,
-      "img": "images/arabic/ar_site_11.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_11.png"
     },
     {
-      "id": "ar",
-      "url": "https://4b.7m2x9qk.shop/",
-      "name": "4B",
+      "id": "ar-12",
+      "url": "https://ar.animezid.lol/",
+      "name": "AnimeZid AR",
       "priority": 12,
-      "img": "images/arabic/ar_site_12.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_12.png"
     },
     {
-      "id": "ar",
+      "id": "ar-13",
+      "url": "https://4b.7m2x9qk.shop/",
+      "name": "4B Anime",
+      "priority": 13,
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_13.png"
+    },
+    {
+      "id": "ar-14",
       "url": "https://www.qfilm.tv/category.php?cat=anime-movies",
       "name": "Qfilm",
-      "priority": 13,
-      "img": "images/arabic/ar_site_13.png"
-    },
-    {
-      "id": "ar",
-      "url": "https://www.arabic-toons.com/movies.php",
-      "name": "Arabic-Toons",
       "priority": 14,
-      "img": "images/arabic/ar_site_14.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_14.png"
     },
     {
-      "id": "ar",
+      "id": "ar-15",
       "url": "https://www.cartoonsta.net/",
       "name": "Cartoonsta",
       "priority": 15,
-      "img": "images/arabic/ar_site_15.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_15.png"
     },
     {
-      "id": "ar",
+      "id": "ar-16",
       "url": "https://animeslayerweb.com/anime-slayer-home/",
       "name": "Animeslayerweb",
       "priority": 16,
-      "img": "images/arabic/ar_site_16.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_16.png"
     },
     {
-      "id": "ar",
+      "id": "ar-17",
       "url": "https://witanime.life/",
       "name": "Witanime",
       "priority": 17,
-      "img": "images/arabic/ar_site_17.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_17.png"
     },
     {
-      "id": "ar",
+      "id": "ar-18",
       "url": "https://wb.animeluxe.org/",
-      "name": "Wb",
+      "name": "AnimeLuxe WB",
       "priority": 18,
-      "img": "images/arabic/ar_site_18.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_18.png"
     },
     {
-      "id": "ar",
+      "id": "ar-19",
       "url": "https://aniime4up.com/",
       "name": "Aniime4Up",
       "priority": 19,
-      "img": "images/arabic/ar_site_19.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_19.png"
     },
     {
-      "id": "ar",
+      "id": "ar-20",
       "url": "https://www.cartoonbook.net/",
       "name": "Cartoonbook",
       "priority": 20,
-      "img": "images/arabic/ar_site_20.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_20.png"
     },
     {
-      "id": "ar",
+      "id": "ar-21",
       "url": "https://vid.mycima.cc/1-topvideos.php?c=the-anime-movies-cimawbas",
-      "name": "Vid",
+      "name": "MyCima Videos",
       "priority": 21,
-      "img": "images/arabic/ar_site_21.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_21.png"
     },
     {
-      "id": "ar",
+      "id": "ar-22",
       "url": "https://www.wehohanime.com/",
       "name": "Wehohanime",
       "priority": 22,
-      "img": "images/arabic/ar_site_22.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_22.png"
     },
     {
-      "id": "ar",
+      "id": "ar-23",
       "url": "https://3f39363is6.animepec.online/",
       "name": "3F39363Is6",
       "priority": 23,
-      "img": "images/arabic/ar_site_23.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_23.png"
     },
     {
-      "id": "ar",
+      "id": "ar-24",
       "url": "https://asd.pics/category/%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d8%a7%d9%86%d9%8a%d9%85%d9%8a%d8%b4%d9%86/",
-      "name": "Asd",
+      "name": "ASD Anime",
       "priority": 24,
-      "img": "images/arabic/ar_site_24.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_24.png"
     },
     {
-      "id": "ar",
+      "id": "ar-25",
       "url": "https://asd.pics/category/cartoon-series/",
-      "name": "Asd",
+      "name": "ASD Cartoon",
       "priority": 25,
-      "img": "images/arabic/ar_site_25.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_25.png"
     },
     {
-      "id": "ar",
+      "id": "ar-26",
       "url": "https://r.cimalight.co/category.php?cat=anime-movies1",
-      "name": "R",
+      "name": "CimaLight R",
       "priority": 26,
-      "img": "images/arabic/ar_site_26.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_26.png"
     },
     {
-      "id": "ar",
-      "url": "https://topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "id": "ar-27",
+      "url": "https://topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%8a%d9%85%d9%8a/",
       "name": "Topcinema",
       "priority": 27,
-      "img": "images/arabic/ar_site_27.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_27.png"
     },
     {
-      "id": "ar",
+      "id": "ar-28",
       "url": "https://vid.mycima.cc/search.php?keywords=%D8%A7%D9%86%D9%85%D9%8A&video-id=",
-      "name": "Vid",
+      "name": "MyCima Search",
       "priority": 28,
-      "img": "images/arabic/ar_site_28.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_28.png"
     },
     {
-      "id": "ar",
+      "id": "ar-29",
       "url": "https://cimafree.rest/category.php?cat=anime-series",
       "name": "Cimafree",
       "priority": 29,
-      "img": "images/arabic/ar_site_29.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_29.png"
     },
     {
-      "id": "ar",
-      "url": "https://cfu.cam/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
-      "name": "Cfu",
+      "id": "ar-30",
+      "url": "https://cfu.cam/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%8a%d9%85%d9%8a/",
+      "name": "CFU Anime",
       "priority": 30,
-      "img": "images/arabic/ar_site_30.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_30.png"
     },
     {
-      "id": "ar",
+      "id": "ar-31",
       "url": "https://mycimma.mom/category.php?cat=cartoon",
       "name": "Mycimma",
       "priority": 31,
-      "img": "images/arabic/ar_site_31.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_31.png"
     },
     {
-      "id": "ar",
+      "id": "ar-32",
       "url": "https://aflaam.com/search?category=30",
       "name": "Aflaam",
       "priority": 32,
-      "img": "images/arabic/ar_site_32.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_32.png"
     },
     {
-      "id": "ar",
+      "id": "ar-33",
       "url": "https://shahheid4u.net/category/افلام-عربي",
       "name": "Shahheid4U",
       "priority": 33,
-      "img": "images/arabic/ar_site_33.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/ar_site_33.png"
     }
   ],
   "english_sites": [
     {
-      "id": "en",
+      "id": "en-1",
       "url": "https://animekai.to/home",
       "name": "AnimeKai",
       "priority": 1,
-      "img": "images/anime_site_1.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_1.png"
     },
     {
-      "id": "en",
+      "id": "en-2",
       "url": "https://animepahe.si",
       "name": "animepahe",
       "priority": 2,
-      "img": "images/anime_site_2.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_2.png"
     },
     {
-      "id": "en",
+      "id": "en-3",
       "url": "https://everythingmoe.com/",
       "name": "Everythingmoe",
       "priority": 3,
-      "img": "images/anime_site_3.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_3.png"
     },
     {
-      "id": "en",
+      "id": "en-4",
       "url": "https://aniwatchtv.to/home",
       "name": "HiAnime",
       "priority": 4,
-      "img": "images/anime_site_4.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_4.png"
     },
     {
-      "id": "en",
+      "id": "en-5",
       "url": "https://allmanga.to/anime",
       "name": "AllManga Anime",
       "priority": 5,
-      "img": "images/anime_site_5.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_5.png"
     },
     {
-      "id": "en",
+      "id": "en-6",
       "url": "https://animeyy.com/",
       "name": "AnimeYY",
       "priority": 6,
-      "img": "images/anime_site_6.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_6.png"
     },
     {
-      "id": "en",
+      "id": "en-7",
       "url": "https://anizone.to/",
       "name": "AniZone",
       "priority": 7,
-      "img": "images/anime_site_7.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_7.png"
     },
     {
-      "id": "en",
+      "id": "en-8",
       "url": "https://kuudere.ru/home",
       "name": "Kuudere",
       "priority": 8,
-      "img": "images/anime_site_8.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_8.png"
     },
     {
-      "id": "en",
+      "id": "en-9",
       "url": "https://kaa.lt/",
       "name": "KickAssAnime",
       "priority": 9,
-      "img": "images/anime_site_9.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_9.png"
     },
     {
-      "id": "en",
+      "id": "en-10",
       "url": "https://anime.nexus/",
       "name": "Anime Nexus",
       "priority": 10,
-      "img": "images/anime_site_10.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_10.png"
     },
     {
-      "id": "en",
+      "id": "en-11",
       "url": "https://anikototv.to/home",
       "name": "Anikoto",
       "priority": 11,
-      "img": "images/anime_site_11.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_11.png"
     },
     {
-      "id": "en",
+      "id": "en-12",
       "url": "https://animetsu.live/",
       "name": "Animetsu",
       "priority": 12,
-      "img": "images/anime_site_12.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_12.png"
     },
     {
-      "id": "en",
+      "id": "en-13",
       "url": "https://www.miruro.to/",
       "name": "Miruro",
       "priority": 13,
-      "img": "images/anime_site_13.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_13.png"
     },
     {
-      "id": "en",
+      "id": "en-14",
       "url": "https://www.crunchyroll.com",
       "name": "Crunchyroll",
       "priority": 14,
-      "img": "images/anime_site_14.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_14.png"
     },
     {
-      "id": "en",
+      "id": "en-15",
       "url": "https://anime.uniquestream.net/",
       "name": "AnimeStream",
       "priority": 15,
-      "img": "images/anime_site_15.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_15.png"
     },
     {
-      "id": "en",
+      "id": "en-16",
       "url": "https://www.bilibili.tv/en/anime",
       "name": "Bilibili",
       "priority": 16,
-      "img": "images/anime_site_16.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_16.png"
     },
     {
-      "id": "en",
+      "id": "en-17",
       "url": "https://youtube.com/",
       "name": "YouTube",
       "priority": 17,
-      "img": "images/anime_site_17.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_17.png"
     },
     {
-      "id": "en",
+      "id": "en-18",
       "url": "https://anihq.org/home",
       "name": "AniHQ",
       "priority": 18,
-      "img": "images/anime_site_18.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_18.png"
     },
     {
-      "id": "en",
+      "id": "en-19",
       "url": "https://senshi.live/",
       "name": "Senshi",
       "priority": 19,
-      "img": "images/anime_site_19.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_19.png"
     },
     {
-      "id": "en",
+      "id": "en-20",
       "url": "https://www.animeonsen.xyz/",
       "name": "AnimeOnsen",
       "priority": 20,
-      "img": "images/anime_site_20.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_20.png"
     },
     {
-      "id": "en",
+      "id": "en-21",
       "url": "https://anidap.se/home",
       "name": "Anidap",
       "priority": 21,
-      "img": "images/anime_site_21.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_21.png"
     },
     {
-      "id": "en",
+      "id": "en-22",
       "url": "https://www.animerealms.org/",
       "name": "Anime Realms",
       "priority": 22,
-      "img": "images/anime_site_22.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_22.png"
     },
     {
-      "id": "en",
+      "id": "en-23",
       "url": "https://animex.one/home",
       "name": "AnimeX",
       "priority": 23,
-      "img": "images/anime_site_23.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_23.png"
     },
     {
-      "id": "en",
+      "id": "en-24",
       "url": "https://anikuro.ru/",
       "name": "Anikuro",
       "priority": 24,
-      "img": "images/anime_site_24.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_24.png"
     },
     {
-      "id": "en",
+      "id": "en-25",
       "url": "https://anisnatch.top/home",
       "name": "AniSnatch",
       "priority": 25,
-      "img": "images/anime_site_25.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_25.png"
     },
     {
-      "id": "en",
+      "id": "en-26",
       "url": "https://anibd.app/",
       "name": "Anibd.app",
       "priority": 26,
-      "img": "images/anime_site_26.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_26.png"
     },
     {
-      "id": "en",
+      "id": "en-27",
       "url": "https://sudatchi.com/",
       "name": "Sudatchi",
       "priority": 27,
-      "img": "images/anime_site_27.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_27.png"
     },
     {
-      "id": "en",
+      "id": "en-28",
       "url": "https://www.animegg.org/",
       "name": "ANIMEGG",
       "priority": 28,
-      "img": "images/anime_site_28.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_28.png"
     },
     {
-      "id": "en",
+      "id": "en-29",
       "url": "https://123animes.ru/home",
       "name": "123anime",
       "priority": 29,
-      "img": "images/anime_site_29.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_29.png"
     },
     {
-      "id": "en",
+      "id": "en-30",
       "url": "https://www.animeparadise.moe/",
       "name": "AnimeParadise",
       "priority": 30,
-      "img": "images/anime_site_30.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_30.png"
     },
     {
-      "id": "en",
+      "id": "en-31",
       "url": "https://animeheaven.me/",
       "name": "AnimeHeaven",
       "priority": 31,
-      "img": "images/anime_site_31.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_31.png"
     },
     {
-      "id": "en",
+      "id": "en-32",
       "url": "https://www.hidive.com/",
       "name": "HIDIVE",
       "priority": 32,
-      "img": "images/anime_site_32.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_32.png"
     },
     {
-      "id": "en",
+      "id": "en-33",
       "url": "https://anitaku.to/",
       "name": "Anitaku.to",
       "priority": 33,
-      "img": "images/anime_site_33.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_33.png"
     },
     {
-      "id": "en",
+      "id": "en-34",
       "url": "https://animehub.ac/",
       "name": "AnimeHub",
       "priority": 34,
-      "img": "images/anime_site_34.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_34.png"
     },
     {
-      "id": "en",
+      "id": "en-35",
       "url": "https://anify.to/",
       "name": "Anify",
       "priority": 35,
-      "img": "images/anime_site_35.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_35.png"
     },
     {
-      "id": "en",
+      "id": "en-36",
       "url": "https://aniworld.to/",
       "name": "AniWorld",
       "priority": 36,
-      "img": "images/anime_site_36.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_36.png"
     },
     {
-      "id": "en",
+      "id": "en-37",
       "url": "https://www.anime-loads.org/",
       "name": "Anime-Loads",
       "priority": 37,
-      "img": "images/anime_site_37.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_37.png"
     },
     {
-      "id": "en",
+      "id": "en-38",
       "url": "https://lunaranime.ru/",
       "name": "Lunar Animes",
       "priority": 38,
-      "img": "images/anime_site_38.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_38.png"
     },
     {
-      "id": "en",
+      "id": "en-39",
       "url": "https://www.animotvslash.org/",
       "name": "Animotvslash",
       "priority": 39,
-      "img": "images/anime_site_39.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_39.png"
     },
     {
-      "id": "en",
+      "id": "en-40",
       "url": "https://www.wcostream.tv/",
       "name": "WCO",
       "priority": 40,
-      "img": "images/anime_site_40.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_40.png"
     },
     {
-      "id": "en",
+      "id": "en-41",
       "url": "https://kisskh.co/explore?type=3&sub=1&country=3",
       "name": "Kisskh",
       "priority": 41,
-      "img": "images/anime_site_41.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_41.png"
     },
     {
-      "id": "en",
+      "id": "en-42",
       "url": "https://beta.otaku-streamers.com/",
       "name": "Otaku-Streamers",
       "priority": 42,
-      "img": "images/anime_site_42.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_42.png"
     },
     {
-      "id": "en",
+      "id": "en-43",
       "url": "https://kawaiifu.com/",
       "name": "Kawaiifu",
       "priority": 43,
-      "img": "images/anime_site_43.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_43.png"
     },
     {
-      "id": "en",
+      "id": "en-44",
       "url": "https://animenosub.to/",
       "name": "AnimeNoSub",
       "priority": 44,
-      "img": "images/anime_site_44.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_44.png"
     },
     {
-      "id": "en",
+      "id": "en-45",
       "url": "https://kimoitv.com/list/anime.html",
       "name": "KimoiTV",
       "priority": 45,
-      "img": "images/anime_site_45.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_45.png"
     },
     {
-      "id": "en",
+      "id": "en-46",
       "url": "https://www.justanime.to/",
       "name": "JustAnime",
       "priority": 46,
-      "img": "images/anime_site_46.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_46.png"
     },
     {
-      "id": "en",
+      "id": "en-47",
       "url": "https://fanime.tv/",
       "name": "Fanime",
       "priority": 47,
-      "img": "images/anime_site_47.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_47.png"
     },
     {
-      "id": "en",
+      "id": "en-48",
       "url": "https://animelok.xyz/",
       "name": "Animelok",
       "priority": 48,
-      "img": "images/anime_site_48.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_48.png"
     },
     {
-      "id": "en",
+      "id": "en-49",
       "url": "https://animeyubi.com/",
       "name": "Animeyubi",
       "priority": 49,
-      "img": "images/anime_site_49.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_49.png"
     },
     {
-      "id": "en",
+      "id": "en-50",
       "url": "https://anikage.cc/home",
       "name": "Anikage",
       "priority": 50,
-      "img": "images/anime_site_50.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_50.png"
     },
     {
-      "id": "en",
+      "id": "en-51",
       "url": "https://rivestream.org/anime",
       "name": "Rive Anime",
       "priority": 51,
-      "img": "images/anime_site_51.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_51.png"
     },
     {
-      "id": "en",
+      "id": "en-52",
       "url": "https://www.ramenflix.com/home",
       "name": "RamenFlix",
       "priority": 52,
-      "img": "images/anime_site_52.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_52.png"
     },
     {
-      "id": "en",
+      "id": "en-53",
       "url": "https://1anime.app",
       "name": "1Anime",
       "priority": 53,
-      "img": "images/anime_site_53.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_53.png"
     },
     {
-      "id": "en",
+      "id": "en-54",
       "url": "https://www.animeya.cc/home",
       "name": "Animeya",
       "priority": 54,
-      "img": "images/anime_site_54.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_54.png"
     },
     {
-      "id": "en",
+      "id": "en-55",
       "url": "https://animelon.com/",
       "name": "Animelon",
       "priority": 55,
-      "img": "images/anime_site_55.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_55.png"
     },
     {
-      "id": "en",
+      "id": "en-56",
       "url": "https://animestar.cc/",
       "name": "AnimeStar",
       "priority": 56,
-      "img": "images/anime_site_56.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_56.png"
     },
     {
-      "id": "en",
+      "id": "en-57",
       "url": "https://animegers.com/",
       "name": "Animegers",
       "priority": 57,
-      "img": "images/anime_site_57.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_57.png"
     },
     {
-      "id": "en",
+      "id": "en-58",
       "url": "https://aniwave.com.se/",
-      "name": "aniwavecomse",
+      "name": "AniWave",
       "priority": 58,
-      "img": "images/anime_site_58.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_58.png"
     },
     {
-      "id": "en",
+      "id": "en-59",
       "url": "https://www.netflix.com/browse/genre/7424",
       "name": "Netflix",
       "priority": 59,
-      "img": "images/anime_site_59.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_59.png"
     },
     {
-      "id": "en",
+      "id": "en-60",
       "url": "https://oceanveil.net/",
       "name": "OceanVeil",
       "priority": 60,
-      "img": "images/anime_site_60.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_60.png"
     },
     {
-      "id": "en",
+      "id": "en-61",
       "url": "https://anitaro.top/home",
       "name": "Anitaro",
       "priority": 61,
-      "img": "images/anime_site_61.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_61.png"
     },
     {
-      "id": "en",
+      "id": "en-62",
       "url": "https://aniversehd.com/",
       "name": "AniverseHD",
       "priority": 62,
-      "img": "images/anime_site_62.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_62.png"
     },
     {
-      "id": "en",
+      "id": "en-63",
       "url": "https://www.hulu.com/hub/anime",
       "name": "Hulu",
       "priority": 63,
-      "img": "images/anime_site_63.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_63.png"
     },
     {
-      "id": "en",
+      "id": "en-64",
       "url": "https://www.voxani.live/",
       "name": "VoxAni",
       "priority": 64,
-      "img": "images/anime_site_64.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_64.png"
     },
     {
-      "id": "en",
+      "id": "en-65",
       "url": "https://zenime.site/",
       "name": "Zenime",
       "priority": 65,
-      "img": "images/anime_site_65.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_65.png"
     },
     {
-      "id": "en",
+      "id": "en-66",
       "url": "https://9anime.org.lv/",
-      "name": "9animeorglv",
+      "name": "9Anime Org",
       "priority": 66,
-      "img": "images/anime_site_66.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_66.png"
     },
     {
-      "id": "en",
+      "id": "en-67",
       "url": "https://animovitch.com/home",
       "name": "Animovitch",
       "priority": 67,
-      "img": "images/anime_site_67.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_67.png"
     },
     {
-      "id": "en",
+      "id": "en-68",
       "url": "https://www.enma.lol/",
       "name": "Enma",
       "priority": 68,
-      "img": "images/anime_site_68.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_68.png"
     },
     {
-      "id": "en",
+      "id": "en-69",
       "url": "https://gogoanime.by/",
       "name": "gogoanime.by",
       "priority": 69,
-      "img": "images/anime_site_69.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_69.png"
     },
     {
-      "id": "en",
+      "id": "en-70",
       "url": "https://anime-dunya.com/",
       "name": "Anime-Dunya",
       "priority": 70,
-      "img": "images/anime_site_70.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_70.png"
     },
     {
-      "id": "en",
+      "id": "en-71",
       "url": "https://animeepisodeseries.com/",
       "name": "AnimeEpisodeSeries",
       "priority": 71,
-      "img": "images/anime_site_71.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_71.png"
     },
     {
-      "id": "en",
+      "id": "en-72",
       "url": "https://animixplay.fun/",
       "name": "Kayoanimetv",
       "priority": 72,
-      "img": "images/anime_site_72.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_72.png"
     },
     {
-      "id": "en",
+      "id": "en-73",
       "url": "https://watchanimeworld.net/",
       "name": "AnimeWorld",
       "priority": 73,
-      "img": "images/anime_site_73.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_73.png"
     },
     {
-      "id": "en",
+      "id": "en-74",
       "url": "https://animedekho.app/home/",
       "name": "AnimeDekho",
       "priority": 74,
-      "img": "images/anime_site_74.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_74.png"
     },
     {
-      "id": "en",
+      "id": "en-75",
       "url": "https://animeland.tv/",
       "name": "Animeland.tv",
       "priority": 75,
-      "img": "images/anime_site_75.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_75.png"
     },
     {
-      "id": "en",
+      "id": "en-76",
       "url": "https://hianime.lc/",
       "name": "HiAnime LC",
       "priority": 76,
-      "img": "images/anime_site_76.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_76.png"
     },
     {
-      "id": "en",
+      "id": "en-77",
       "url": "https://hianime.city/",
       "name": "HiAnime City",
       "priority": 77,
-      "img": "images/anime_site_77.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_77.png"
     },
     {
-      "id": "en",
+      "id": "en-78",
       "url": "https://9animetv.to/home",
       "name": "9Anime TV",
       "priority": 78,
-      "img": "images/anime_site_78.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_78.png"
     },
     {
-      "id": "en",
+      "id": "en-79",
       "url": "https://anitaku.io/",
       "name": "Anitaku IO",
       "priority": 79,
-      "img": "images/anime_site_79.png"
+      "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/anime_site_79.png"
     }
   ]
-  }
+}
