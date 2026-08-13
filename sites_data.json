@@ -1,6 +1,13 @@
 {
   "arabic_sites": [
     {
+      "id": "ar-001",
+      "url": "https://animedown.fun/",
+      "name": "Anime Down",
+      "priority": 0,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT1ltzxcjkP1ND064ZiFTygCRyiUqZ43mLm0Q0yD1HsG8ZQKbTnj86X8&s=10"
+    },
+    {
       "id": "ar-01",
       "url": "https://eta.animerco.org",
       "name": "Animerco",
