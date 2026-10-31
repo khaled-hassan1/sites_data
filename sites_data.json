@@ -8,6 +8,13 @@
       "img": "https://raw.githubusercontent.com/khaled-hassan1/sites_data/master/images/arabic/Animerco.png"
     },
     {
+      "id": "ar-2",
+      "url": "https://spacepowerfan.com/",
+      "name": "Spacepower fan",
+      "priority": 2,
+      "img": "https://spacepowerfan.com/wp-content/uploads/2026/10/cropped-سبيس-باور-فان.png"
+    },
+    {
       "id": "ar-1",
       "url": "https://anime3rb.com/",
       "name": "Anime3Rb",
